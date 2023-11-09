@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 
   ### 📌 Baekjoon 📌
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkddbs2480)](https://solved.ac/tkddbs2480/)
-  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=tkddbs2480&theme=warm)](https://solved.ac/tkddbs2480/) 
   
 </div>
